@@ -1,0 +1,20 @@
+{
+  "name": "design-systems-with-react-and-typescript-in-storybook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "storybook": "start-storybook -p 6006 -c .storybook"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@storybook/react": "^4.1.11",
+    "babel-core": "^6.26.3"
+  },
+  "dependencies": {
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2"
+  }
+}
